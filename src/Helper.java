@@ -1,3 +1,3 @@
 public class Helper {
-    public static final String BASE_URL = "files/";
+    public static String BASE_URL = "";
 }
