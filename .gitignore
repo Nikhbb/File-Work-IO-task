@@ -5,6 +5,7 @@ out/
 .idea/
 *.iml
 files/*.txt
+File-Work-IO-task.iml
 
 ### Eclipse ###
 .apt_generated
